@@ -4,6 +4,8 @@ Turnkey iGaming software solution that enables operators to launch new online ca
 > [LIVE DEMO](https://demo.1stake.app)
 > • [WEBSITE](https://1stake.app)
 > • [CONTACT US](https://1stake.atlassian.net/servicedesk)
+
+[![1Stake Online Casino Platform](https://raw.githubusercontent.com/1stake/assets/refs/heads/main/1stake-igaming-casino-platform-browser.webp)](https://demo.1stake.app)
 ---
 
 ## 🚀 How To Start Your Online Casino Business?

